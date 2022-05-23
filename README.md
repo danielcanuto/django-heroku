@@ -9,6 +9,8 @@ Minimal configuration to host a Django project at Heroku
 * virtualenv -p python3 .vEnv
 * . .vEnv/bin/activate
 
+* ou python3 -m venv nomeDir
+
 ## Installing django
 * pip install django
 
